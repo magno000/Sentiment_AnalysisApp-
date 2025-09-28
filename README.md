@@ -1,2 +1,2 @@
 # Sentiment_AnalysisApp-
-Sentiment Analysis 
+Sentiment Analysis App
